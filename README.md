@@ -7,7 +7,7 @@
   - `npm start`
 
 ## Technologies
-I've utilized `ReactJS` in order to implement the frontend of conduit, which is a `Medium.com` clone. Used `Redux` to implement features such as user authentication, article creation, and real‐time data updates. Implemented form validation using `regular expressions` to ensure data accuracy and security.
+I've implemented the frontend of conduit (a `Medium.com` clone) using `ReactJS`. Implemented a `Redux Store` for user authentication, article creation, and real‐time data updates. Utilized `TailwindCSS` for fast and flexible development. Implemented form validation using `regular expressions` to ensure data accuracy and security.
 
 ## Screenshots
 <img width="630" alt="Screenshot 2023-01-16 at 16 12 33" src="https://user-images.githubusercontent.com/57680495/212687871-f8b65146-8a65-4567-82c9-9c611f1e1b35.png">
