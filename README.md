@@ -1,5 +1,5 @@
 # Frontend Implementation of Conduit
-I developed the frontend during my internship at OBSS in my sophomore year.
+I built this project individually during my sophomore-year internship at OBSS.
 
 ## How to run on local
 - Go to project directory
